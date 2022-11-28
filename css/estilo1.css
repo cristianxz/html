@@ -1,0 +1,73 @@
+body{ background-image: url("imagenes/fondo1.jpg");
+}
+h1
+{ font-family:algerian;
+font-size:70px;
+color:white;
+}
+p
+{font-family:arial;
+font-size:20px;
+}
+h2
+{ font-family:algerian;
+font-size:40px;
+color:white;
+}
+#contenedor
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+border-color: #4B0A1E;
+}
+#caja1
+{ background-color:#E81558 ;
+}
+#caja2
+{ background-color:#E81558 ;
+}
+#contenedor1
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+border-color: #C62155;
+}
+#caja01
+{ background-color:#C62155 ;
+}
+#caja02
+{ background-color:#C62155 ;
+}
+#contenedor2
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+border-color: #B11B4B;
+}
+#caja3
+{ background-color:#B11B4B ;
+}
+#caja4
+{ background-color:#B11B4B;
+}
+#contenedor3
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+border-color: #95173F ;
+}
+#caja5
+{ background-color:#95173F  ;
+}
+#caja6
+{ background-color:#95173F  ;
+}
+footer{
+	background-image: url("imagenes/fondo catar.jpg");
+	font-family:arial;
+font-size:30px;
+}

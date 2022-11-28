@@ -1,0 +1,95 @@
+body{ background-image: url("imagenes/fondo1.jpg");
+}
+h1
+{ font-family:algerian;
+font-size:70px;
+color:white;
+}
+p
+{font-family:arial;
+font-size:20px;
+}
+h2
+{ font-family:algerian;
+font-size:40px;
+color:white;
+}
+#contenedor
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja2
+{ background-image: url("imagenes/fondo catar.jpg");
+}
+#contenedor1
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja3
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor2
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja5
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor3
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja7
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor4
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja9
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor5
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja11
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor6
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja13
+{ background-image: url("imagenes/fondo catar.jpg");
+}#contenedor7
+{
+display: flex;
+border-width: 15px;
+border-style: double;
+background-image: url("imagenes/fondo catar.jpg");
+}
+#caja15
+{ background-image: url("imagenes/fondo catar.jpg");
+}
+footer{
+	background-image: url("imagenes/fondo catar.jpg");
+	font-family:arial;
+font-size:30px;
+}

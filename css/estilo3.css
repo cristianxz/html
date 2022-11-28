@@ -1,0 +1,29 @@
+body{ background-image: url("imagenes/fondo1.jpg");
+}
+h1
+{ font-family:algerian;
+font-size:70px;
+color:white;
+}
+h2
+{ font-family:algerian;
+font-size:40px;
+color:white;
+}
+table, th, td {
+	border: 5px solid;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 5px;
+}
+table{
+	border: 5px solid;
+	border-collapse: collapse;
+	background-image: url("imagenes/fondo catar.jpg");
+}
+footer{
+	background-image: url("imagenes/fondo catar.jpg");
+	font-family:arial;
+font-size:30px;
+}

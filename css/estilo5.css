@@ -1,0 +1,28 @@
+body{ background-image: url("imagenes/fondo1.jpg");
+}
+h1
+{ font-family:algerian;
+font-size:70px;
+color:white;
+}
+h2
+{ font-family:algerian;
+font-size:40px;
+color:white;
+}
+p{
+	font-family:arial;
+	color:white;
+font-size:30px;
+}
+footer{
+	background-image: url("imagenes/fondo catar.jpg");
+	font-family:arial;
+font-size:30px;
+}
+h3
+{ 
+font-family:algerian;
+font-size:40px;
+color:white;
+}
